@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalyan Raja Kadari</h1>
 <h3 align="center">As an Ambitious Computer science major with a passion for creating innovative and scalable systems, I am experienced in Web Development and ML, having developed various web and mobile applications.</h3>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
