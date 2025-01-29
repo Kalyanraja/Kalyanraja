@@ -1,26 +1,25 @@
-### Hi there, I'm Kalyan Raja Kadari! 👋
+### 🌟 Hello, World! I'm Kalyan Raja Kadari 🌟
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
+  <img src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%" />
 </p>
 
-<h3 align="center">💻 AI Engineer | Data Scientist | Full-Stack Developer | Cloud Engineer</h3>
-<p align="center">🚀 Passionate about AI, Machine Learning, Cloud Computing, Data Science, and building scalable applications! 🚀</p>
+<h3 align="center">🚀 AI Engineer | Full-Stack Developer | Data Analyst</h3>
+<p align="center">💡 Transforming ideas into intelligent, scalable, and data-driven solutions! 💡</p>
 
 ---
 
 ## 🏆 About Me
 
 - 🎓 **Master's in Computer Science** | *Florida State University, USA* (GPA: 3.87/4.0)
-- 👨‍💻 **Software Engineer with 10+ years of experience** in AI, Data Science, Web Development, and Cloud Engineering.
+- 👨‍💻 **Software Engineer with 5+ years of experience** in AI, Data Science, Web Development, and Cloud Engineering.
 - 🏆 **Finalist** of Flipkart GRiD 3.0 | Google Summer of Code (GSoC) Contributor.
-- 📚 **First Author & Co-Author** in AI/ML Research Publications.
+- 📚 **Published Researcher** in AI, Deep Learning, and Predictive Analytics.
 - 🌍 **Expertise in Full-stack development, AI research, and cloud solutions (AWS, GCP, Azure).**
 - 📬 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/kalyan-raja-kadari-181638167/) | [GitHub](https://github.com/Kalyanraja)
+## ⚙️ Tools & Technologies
 
 ---
-
-## ⚙️ Tools & Technologies
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,6 +63,28 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+---
+
+## 🔬 Research & Publications
+
+### **🚗 Driver Safety Prediction System** (*First Author*)
+- Developed an AI-based **driver safety assessment model** using machine learning techniques.
+- Integrated real-time telematics data with **sensor fusion techniques** to analyze driving behaviors.
+- Achieved **90%+ accuracy** in predicting potential accident-prone situations.
+- **Technologies Used**: Python, Scikit-learn, XGBoost, Feature Engineering, Time-Series Analysis.
+
+### **🧠 Optimizers in Deep Learning: A Comparative Study and Analysis** (*Co-Author*)
+- Conducted a comprehensive study comparing **SGD, Adam, RMSProp, and AdaGrad** optimizers.
+- Benchmarked various **deep learning models** on large-scale datasets.
+- Provided insights into **optimizer efficiency, training stability, and convergence rates**.
+- **Technologies Used**: TensorFlow, PyTorch, Jupyter Notebooks, Deep Learning Frameworks.
+
+### **❤️ Cardiovascular Disease Prediction using Genetic Algorithm** (*Co-Author*)
+- Designed an AI-powered **early prediction model** for cardiovascular diseases.
+- Implemented **Genetic Algorithms** to optimize feature selection for better diagnosis.
+- Improved **predictive accuracy by 25%** compared to traditional machine learning methods.
+- **Technologies Used**: Python, SciPy, Genetic Algorithms, Medical Data Analysis, Cloud-based AI Pipelines.
 
 ---
 
