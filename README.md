@@ -12,7 +12,7 @@
 ## 🏆 About Me
 
 - 🎓 **Master's in Computer Science** | *Florida State University, USA* (GPA: 3.87/4.0)
-- 👨‍💻 **Software Engineer with 5+ years of experience** in AI, Data Science, Web Development, and Cloud Engineering.
+- 👨‍💻 **Software Engineer experienced** in AI, Data Science, Web Development, and Cloud Engineering.
 - 🏆 **Finalist** of Flipkart GRiD 3.0 | Google Summer of Code (GSoC) Contributor.
 - 📚 **Published Researcher** in AI, Deep Learning, and Predictive Analytics.
 - 🌍 **Expertise in Full-stack development, AI research, and cloud solutions (AWS, GCP, Azure).**
