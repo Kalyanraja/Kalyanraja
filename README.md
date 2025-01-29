@@ -16,7 +16,7 @@
 - 🏆 **Finalist** of Flipkart GRiD 3.0 | Google Summer of Code (GSoC) Contributor.
 - 📚 **Published Researcher** in AI, Deep Learning, and Predictive Analytics.
 - 🌍 **Expertise in Full-stack development, AI research, and cloud solutions (AWS, GCP, Azure).**
-- 📬 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/kalyan-raja-kadari-181638167/) | [GitHub](https://github.com/Kalyanraja)
+- 📬 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/kalyan-raja-kadari-181638167/)
 ## ⚙️ Tools & Technologies
 
 ---
