@@ -88,6 +88,18 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalyanraja&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalyanraja&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyanraja&layout=compact&theme=radical&hide_border=true&border_radius=10"/>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalyan-raja-kadari-181638167/)
