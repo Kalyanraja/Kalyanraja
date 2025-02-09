@@ -16,7 +16,17 @@
 - 🏆 **Finalist** of Flipkart GRiD 3.0 | Google Summer of Code (GSoC) Contributor.
 - 📚 **Published Researcher** in AI, Deep Learning, and Predictive Analytics.
 - 🌍 **Expertise in Full-stack development, AI research, and cloud solutions (AWS, GCP, Azure).**
-- 📬 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/kalyan-raja-kadari-181638167/)
+  
+- 👉 "Check out my portfolio: https://kalyanraja.github.io/ - Let's connect professionally!"
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalyan-raja-kadari-181638167/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kalyanraja)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:kalyanraja012@gmail.com)
+
+---
+
 ## ⚙️ Tools & Technologies
 
 ---
@@ -100,12 +110,5 @@
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalyan-raja-kadari-181638167/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kalyanraja)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:kalyanraja012@gmail.com)
-
----
 
 *⚡ Kalyan Raja Kadari - "Innovating AI-powered solutions and scalable cloud applications!" 🚀*
