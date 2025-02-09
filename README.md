@@ -19,13 +19,6 @@
   
 ## 🚀 Let's Connect!
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://kalyanraja.github.io/)
-
-💡 Passionate about **Software Development, AI, and Data Science**.  
-Let's collaborate and build something amazing! 🤝  
-
-
-## 📫 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalyan-raja-kadari-181638167/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kalyanraja)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:kalyanraja012@gmail.com)
