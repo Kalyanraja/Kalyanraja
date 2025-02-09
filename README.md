@@ -12,12 +12,17 @@
 ## 🏆 About Me
 
 - 🎓 **Master's in Computer Science** | *Florida State University, USA* (GPA: 3.87/4.0)
-- 👨‍💻 **Software Engineer experienced** in AI, Data Science, Web Development, and Cloud Engineering.
+- 💡 Passionate about **Software Development, AI, and Data Science**. 
 - 🏆 **Finalist** of Flipkart GRiD 3.0 | Google Summer of Code (GSoC) Contributor.
 - 📚 **Published Researcher** in AI, Deep Learning, and Predictive Analytics.
 - 🌍 **Expertise in Full-stack development, AI research, and cloud solutions (AWS, GCP, Azure).**
   
-- 👉 "Check out my portfolio: https://kalyanraja.github.io/ - Let's connect professionally!"
+## 🚀 Let's Connect!
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://kalyanraja.github.io/)
+
+💡 Passionate about **Software Development, AI, and Data Science**.  
+Let's collaborate and build something amazing! 🤝  
+
 
 ## 📫 Connect With Me
 
